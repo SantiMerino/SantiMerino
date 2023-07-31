@@ -1,8 +1,8 @@
-### Hi, I'm Santi! 😄
+# Hi, I'm Santi! 😄
 
-High School Software Developer from El Salvador
+###High School Software Developer from El Salvador
 
-# 🔭 I'm interested in:
+##🔭 I'm interested in:
 - Software development 💻
 - Design 🖋️
 - UI/UX 📈
