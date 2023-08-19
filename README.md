@@ -1,4 +1,4 @@
-# Hi, I'm Santi! 😄
+# Hi, I'm Santi! 🫀
 
 ### High School Software Developer from El Salvador
 
