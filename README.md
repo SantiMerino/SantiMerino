@@ -1,5 +1,3 @@
-(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Hi I'm Santi!
 
 💻 I am fullstack developer and student crafting fast, accessible web apps with TypeScript and React. Skilled in state management, streaming, and UI architecture—turning complex needs into sleek, intuitive interfaces.
@@ -29,11 +27,9 @@
   </a>
 
 </div>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiMerino&theme=github_dark" alt="santimerino"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=SantiMerino&repo=github-readme-stats&theme=github_dark" alt="santimerino"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiMerino&theme=github_dark&layout=compact" alt="santimerino"/></p>
-
 </div>
