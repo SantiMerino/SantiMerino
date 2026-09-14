@@ -45,7 +45,7 @@ Software, sales and support — from freelance e-commerce to an institutional pl
 | `2024 — 2026` | Junior Full-Stack Developer | **Freelance** | Built two e-commerce platforms end to end with Next.js, Prisma, PostgreSQL and Supabase on Vercel — Wompi payments, a delivery system of their own, and booking. |
 | `2024` | Inside Sales Agent | <img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/workplaces/lidd.png" alt="" width="14" height="14" align="top"> **Lidd** | B2B sales around observability and monitoring (Grafana): spotting commercial opportunities and building the client relationships behind them. |
 | `2023 — 2024` | Call Center Agent | <img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/workplaces/the-office-gurus.jpg" alt="" width="14" height="14" align="top"> **The Office Gurus** | Built a web case-tracking tool for agents that surfaced success rates, trends and the places worth improving. |
-| `2023` | Full-Stack Developer Intern | **Stratega-IT** | Led a CRM, invoicing and ticketing platform built with React, Node.js REST APIs and PostgreSQL, plus Prisma, Resend and Tailwind integrations. |
+| `2023` | Full-Stack Developer Intern | <img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/workplaces/stratega-it.png" alt="" width="14" height="14" align="top"> **Stratega-IT** | Led a CRM, invoicing and ticketing platform built with React, Node.js REST APIs and PostgreSQL, plus Prisma, Resend and Tailwind integrations. |
 
 ---
 
