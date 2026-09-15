@@ -159,8 +159,19 @@ in both.
 [<img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="14" height="14"> /in/santiagomerinoh](https://www.linkedin.com/in/santiagomerinoh/) &nbsp;·&nbsp;
 [<img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/stack/notion.svg" alt="notion.santimh.dev" title="notion.santimh.dev" width="14" height="14"> notion.santimh.dev](https://notion.santimh.dev)
 
-<br>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SantiMerino&hide_border=true&background=00000000&ring=16a34a&fire=16a34a&currStreakLabel=16a34a&sideLabels=6e7681&dates=8b949e&sideNums=6e7681&currStreakNum=6e7681&stroke=6e7681" height="165" alt="Santiago’s GitHub contribution streak">
-</div>
+### GITHUB
+
+Drawn daily from the API by [a workflow in this repo](.github/workflows/stats.yml), not by a
+card service — and counting the private work too, which is where most of it lives.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/contributions-light.svg" width="880" alt="Contributions, current streak, merged pull requests and repositories">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/SantiMerino/SantiMerino/main/assets/languages-light.svg" width="880" alt="Most-used languages by bytes across every repository">
+</picture>

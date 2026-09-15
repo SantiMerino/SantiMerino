@@ -1,0 +1,55 @@
+name: stats
+
+# Redraws the profile cards from the GitHub API and commits them, so the
+# README never depends on a third-party card service being up.
+
+on:
+  schedule:
+    - cron: '17 6 * * *' # every day, 06:17 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    env:
+      # A token with read:user (plus repo, or Metadata read, to count the
+      # private work). Without it the job leaves the committed cards alone
+      # rather than replacing them with public-only numbers.
+      STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+
+      - name: Warn when the token is missing
+        if: env.STATS_TOKEN == ''
+        run: echo "::warning::STATS_TOKEN is not set — keeping the cards as they are."
+
+      - name: Draw the cards
+        if: env.STATS_TOKEN != ''
+        run: node scripts/build-stats.mjs
+        env:
+          GH_TOKEN: ${{ env.STATS_TOKEN }}
+
+      - name: Commit them if anything moved
+        if: env.STATS_TOKEN != ''
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contributions-*.svg assets/languages-*.svg assets/stats.json
+          git diff --cached --quiet && echo 'nothing changed' && exit 0
+          git commit -m 'chore(stats): refresh the profile cards'
+          git push
