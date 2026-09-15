@@ -13,8 +13,6 @@ intuitive interfaces.
 
 <samp>NOW</samp>
 
-- Building **WELL-OS**, the academic platform at [Key Institute](#experience) — Next.js, NestJS, Prisma, Azure SQL.
-- Shipping [**nuevofunko.com**](https://www.nuevofunko.com), El Salvador’s Funko Pop store.
 - Writing at [**notion.santimh.dev**](https://notion.santimh.dev) and rebuilding my portfolio at **santimh.dev**.
 - Open to work — reach me at [hi@santimh.dev](mailto:hi@santimh.dev).
 
