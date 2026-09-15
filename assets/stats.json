@@ -2,8 +2,8 @@
   "updated": "2026-09-15",
   "login": "SantiMerino",
   "contributions": {
-    "total": 1734,
-    "restricted": 1369,
+    "total": 1735,
+    "restricted": 0,
     "currentStreak": 64,
     "longestStreak": 64
   },
@@ -20,7 +20,7 @@
     },
     {
       "name": "JavaScript",
-      "share": 19.71
+      "share": 19.72
     },
     {
       "name": "HTML",
