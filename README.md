@@ -25,9 +25,12 @@ Recent builds, straight from [@SantiMerino](https://github.com/SantiMerino) — 
 | Year | Project | Built with | What it is |
 | :--- | :--- | :--- | :--- |
 | `2026` | **[NuevoFunko — Funko Pop store](https://www.nuevofunko.com)** | Next.js · Prisma · Wompi | E-commerce for El Salvador’s Funko Pop shop: catalog filters, bundles, coupons, Wompi payments, delivery points and an admin panel. |
-| `2026` | **[Kite Hub — lab tool lending](https://github.com/SantiMerino/kite-hub)** | Next.js · Prisma · SQL Server | QR kiosk and admin panel for the KITE lab: tool loans and returns, role-based access, overdue alerts, sanctions and an audit log. |
+| `2026` | **ECON-NECT — fleet truth** | Next.js · Python · local LLM | Entropy hackathon, Power Skills winner: one console for equipment state across two systems, every discrepancy traced to its source, explained by a read-only local agent. |
+| `2026` | **[Kite Hub — lab tool lending](https://github.com/SantiMerino/kite-hub)** | Next.js · Prisma · SQL Server | QR kiosk and admin panel for the KITE lab: tool loans and returns, role-based access, overdue alerts, sanctions and an audit log. Started as a class project; the university took it on as its labs module. |
 | `2026` | **[Notion-powered blog](https://github.com/SantiMerino/notion-dev-tools)** | Next.js · Notion API · Tailwind | Posts written in Notion, rendered by Next.js 16 with cached pages; a signed webhook revalidates a post seconds after an edit. |
 | `2026` | **[9PM — campus curfew game](https://github.com/SantiMerino/9PM)** | Python · Pygame | Top-down Pygame game for a data structures course: stacks for undo, queues for events, BFS/DFS guard patrols, sorted leaderboard. |
+| `2026` | **[Torogoz — remodeling landing](https://torogoz-home-remodeling.vercel.app)** | Vite · TypeScript · Vercel | Freelance landing for a remodeling contractor in Charlotte, NC: a gallery of real work, licence and insurance up front, and a one-handed path from search result to phone call. |
+| `2025` | **Key Institute hackathon** | 24 hours · team of 3 | First place at Key Institute’s first hackathon: twenty-four hours, a team of three and a national-security brief, from the idea to a working demo. |
 | `2026` | **[MathBot — arm trajectories](https://github.com/SantiMerino/MathBot)** | MATLAB · JavaScript | Parametric three-petal rose path for a low-cost SCARA arm, with curvature-adaptive waypoints keeping trace error under 1 mm. |
 
 ---
@@ -138,7 +141,8 @@ app that renders the Notion API, and a signed webhook revalidates a post seconds
 - **Universidad Don Bosco** — Computer Science, Jan 2024 – Jun 2025.
 - **Technical baccalaureate in software development** — Instituto Técnico Ricaldone, GPA 4.0 (2023).
 - **Oracle Next Education + Alura Latam** — React track (2023).
-- **1st place**, 24-hour national-security hackathon at Key Institute (Oct 2025), leading a team of three with INAS.
+- **1st place**, 24-hour national-security hackathon at Key Institute (Nov 2025), leading a team of three.
+- **Power Skills winner**, Entropy hackathon (Sep 2026), with ECON-NECT.
 
 ---
 
