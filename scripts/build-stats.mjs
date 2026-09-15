@@ -123,7 +123,11 @@ await writeFile(
       login: LOGIN,
       contributions: {
         total: contributions.total,
-        private: privateCount,
+        // What a visitor can't see the details of. It drops to zero once the
+        // token can read the private repos — those commits are then counted
+        // by name in `total`, not held back — so it isn't a private/public
+        // split, just how much of the year is opaque to the API caller.
+        restricted: privateCount,
         currentStreak: current,
         longestStreak: longest,
       },
