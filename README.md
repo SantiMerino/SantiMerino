@@ -24,7 +24,6 @@ Recent builds, straight from [@SantiMerino](https://github.com/SantiMerino) — 
 
 | Year | Project | Built with | What it is |
 | :--- | :--- | :--- | :--- |
-| `2026` | **[NuevoFunko — Funko Pop store](https://www.nuevofunko.com)** | Next.js · Prisma · Wompi | E-commerce for El Salvador’s Funko Pop shop: catalog filters, bundles, coupons, Wompi payments, delivery points and an admin panel. |
 | `2026` | **ECON-NECT — fleet truth** | Next.js · Python · local LLM | Entropy hackathon, Power Skills winner: one console for equipment state across two systems, every discrepancy traced to its source, explained by a read-only local agent. |
 | `2026` | **[Kite Hub — lab tool lending](https://github.com/SantiMerino/kite-hub)** | Next.js · Prisma · SQL Server | QR kiosk and admin panel for the KITE lab: tool loans and returns, role-based access, overdue alerts, sanctions and an audit log. Started as a class project; the university took it on as its labs module. |
 | `2026` | **[Notion-powered blog](https://github.com/SantiMerino/notion-dev-tools)** | Next.js · Notion API · Tailwind | Posts written in Notion, rendered by Next.js 16 with cached pages; a signed webhook revalidates a post seconds after an edit. |
