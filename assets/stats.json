@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2111,
+    "total": 2112,
     "restricted": 0,
-    "currentStreak": 91,
-    "longestStreak": 91
+    "currentStreak": 92,
+    "longestStreak": 92
   },
   "mergedPRs": 124,
   "repositories": {
@@ -16,11 +16,11 @@
   "languages": [
     {
       "name": "TypeScript",
-      "share": 41.51
+      "share": 41.5
     },
     {
       "name": "HTML",
-      "share": 34.7
+      "share": 34.69
     },
     {
       "name": "JavaScript",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Other",
-      "share": 1.93
+      "share": 1.95
     }
   ]
 }
