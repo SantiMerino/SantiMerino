@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2143,
+    "total": 2152,
     "restricted": 0,
-    "currentStreak": 98,
-    "longestStreak": 98
+    "currentStreak": 99,
+    "longestStreak": 99
   },
-  "mergedPRs": 127,
+  "mergedPRs": 130,
   "repositories": {
     "total": 49,
     "private": 32
@@ -20,7 +20,7 @@
     },
     {
       "name": "HTML",
-      "share": 34.44
+      "share": 34.43
     },
     {
       "name": "JavaScript",
