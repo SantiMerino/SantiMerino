@@ -2,12 +2,12 @@
   "updated": "2026-10-22",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2170,
+    "total": 2178,
     "restricted": 0,
-    "currentStreak": 101,
-    "longestStreak": 101
+    "currentStreak": 102,
+    "longestStreak": 102
   },
-  "mergedPRs": 130,
+  "mergedPRs": 131,
   "repositories": {
     "total": 49,
     "private": 32
@@ -16,11 +16,11 @@
   "languages": [
     {
       "name": "HTML",
-      "share": 42.32
+      "share": 42.3
     },
     {
       "name": "TypeScript",
-      "share": 36.28
+      "share": 36.3
     },
     {
       "name": "JavaScript",
