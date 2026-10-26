@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2192,
+    "total": 2194,
     "restricted": 0,
     "currentStreak": 105,
     "longestStreak": 105
@@ -16,19 +16,19 @@
   "languages": [
     {
       "name": "HTML",
-      "share": 41.76
+      "share": 41.7
     },
     {
       "name": "TypeScript",
-      "share": 35.78
+      "share": 35.73
     },
     {
       "name": "JavaScript",
-      "share": 13.18
+      "share": 13.16
     },
     {
       "name": "Python",
-      "share": 4.95
+      "share": 5.07
     },
     {
       "name": "CSS",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Other",
-      "share": 1.78
+      "share": 1.77
     }
   ]
 }
