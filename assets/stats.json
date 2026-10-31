@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "login": "SantiMerino",
   "contributions": {
     "total": 2207,
     "restricted": 0,
-    "currentStreak": 109,
+    "currentStreak": 0,
     "longestStreak": 109
   },
   "mergedPRs": 131,
