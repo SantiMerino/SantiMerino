@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2278,
+    "total": 2283,
     "restricted": 0,
     "currentStreak": 120,
     "longestStreak": 120
@@ -16,19 +16,19 @@
   "languages": [
     {
       "name": "HTML",
-      "share": 49.09
+      "share": 48.99
     },
     {
       "name": "TypeScript",
-      "share": 28.21
+      "share": 28.15
     },
     {
       "name": "JavaScript",
-      "share": 10.54
+      "share": 10.52
     },
     {
       "name": "Python",
-      "share": 4.2
+      "share": 4.4
     },
     {
       "name": "Jupyter Notebook",
