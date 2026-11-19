@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "login": "SantiMerino",
   "contributions": {
     "total": 2331,
@@ -16,11 +16,11 @@
   "languages": [
     {
       "name": "HTML",
-      "share": 56.55
+      "share": 56.52
     },
     {
       "name": "TypeScript",
-      "share": 23.78
+      "share": 23.77
     },
     {
       "name": "JavaScript",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Other",
-      "share": 1.61
+      "share": 1.65
     }
   ]
 }
