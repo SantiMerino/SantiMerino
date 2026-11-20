@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2331,
+    "total": 2332,
     "restricted": 0,
-    "currentStreak": 129,
-    "longestStreak": 129
+    "currentStreak": 130,
+    "longestStreak": 130
   },
   "mergedPRs": 141,
   "repositories": {
