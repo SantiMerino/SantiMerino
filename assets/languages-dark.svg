@@ -2,16 +2,16 @@
   <rect x="0.5" y="0.5" width="879" height="187" rx="16" fill="#090a0c" stroke="#1e2126"/>
   <text x="32" y="42" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="1.4" fill="#767c86">LANGUAGES</text>
   <text x="848" y="42" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="11" fill="#767c86">BY BYTES · 50 REPOS · 34 PRIVATE</text>
-  <rect x="32.0" y="72" width="459.2" height="12" rx="3" fill="#e34c26"/>
-  <rect x="493.2" y="72" width="192.0" height="12" rx="3" fill="#3178c6"/>
-  <rect x="687.2" y="72" width="56.2" height="12" rx="3" fill="#f1e05a"/>
-  <rect x="745.4" y="72" width="48.8" height="12" rx="3" fill="#DA5B0B"/>
-  <rect x="796.2" y="72" width="28.2" height="12" rx="3" fill="#3572A5"/>
-  <rect x="826.4" y="72" width="6.1" height="12" rx="3" fill="#663399"/>
-  <rect x="834.5" y="72" width="11.5" height="12" rx="3" fill="#2a2e35"/>
+  <rect x="32.0" y="72" width="457.9" height="12" rx="3" fill="#e34c26"/>
+  <rect x="491.9" y="72" width="191.9" height="12" rx="3" fill="#3178c6"/>
+  <rect x="685.8" y="72" width="56.0" height="12" rx="3" fill="#f1e05a"/>
+  <rect x="743.9" y="72" width="48.7" height="12" rx="3" fill="#DA5B0B"/>
+  <rect x="794.6" y="72" width="29.9" height="12" rx="3" fill="#3572A5"/>
+  <rect x="826.5" y="72" width="6.1" height="12" rx="3" fill="#663399"/>
+  <rect x="834.6" y="72" width="11.4" height="12" rx="3" fill="#2a2e35"/>
   <circle cx="37" cy="120" r="5" fill="#e34c26"/>
   <text x="50" y="124" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f5f7fa">HTML</text>
-  <text x="87.6" y="124" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">56.5%</text>
+  <text x="87.6" y="124" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">56.4%</text>
   <circle cx="241" cy="120" r="5" fill="#3178c6"/>
   <text x="254" y="124" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f5f7fa">TypeScript</text>
   <text x="336" y="124" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">23.8%</text>
@@ -23,11 +23,11 @@
   <text x="788.4" y="124" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">6.2%</text>
   <circle cx="37" cy="146" r="5" fill="#3572A5"/>
   <text x="50" y="150" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f5f7fa">Python</text>
-  <text x="102.4" y="150" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">3.7%</text>
+  <text x="102.4" y="150" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">3.9%</text>
   <circle cx="241" cy="146" r="5" fill="#663399"/>
   <text x="254" y="150" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f5f7fa">CSS</text>
   <text x="284.2" y="150" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">1.0%</text>
   <circle cx="445" cy="146" r="5" fill="#2a2e35"/>
   <text x="458" y="150" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f5f7fa">Other</text>
-  <text x="503" y="150" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">1.7%</text>
+  <text x="503" y="150" font-family="ui-monospace, 'SF Mono', 'Geist Mono', Menlo, Consolas, monospace" font-size="12" fill="#767c86">1.6%</text>
 </svg>
