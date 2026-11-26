@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "login": "SantiMerino",
   "contributions": {
-    "total": 2390,
+    "total": 2410,
     "restricted": 0,
-    "currentStreak": 2,
-    "longestStreak": 132
+    "currentStreak": 136,
+    "longestStreak": 136
   },
-  "mergedPRs": 150,
+  "mergedPRs": 151,
   "repositories": {
     "total": 50,
     "private": 34
@@ -16,31 +16,31 @@
   "languages": [
     {
       "name": "HTML",
-      "share": 56.24
+      "share": 63.77
     },
     {
       "name": "TypeScript",
-      "share": 23.72
-    },
-    {
-      "name": "JavaScript",
-      "share": 7.1
+      "share": 17.46
     },
     {
       "name": "Jupyter Notebook",
-      "share": 6.2
+      "share": 8.11
+    },
+    {
+      "name": "JavaScript",
+      "share": 5.2
     },
     {
       "name": "Python",
-      "share": 4.12
+      "share": 3.54
     },
     {
       "name": "CSS",
-      "share": 0.99
+      "share": 0.72
     },
     {
       "name": "Other",
-      "share": 1.64
+      "share": 1.2
     }
   ]
 }
